@@ -1,0 +1,6 @@
+smtp_secrets.sh
+__pycache__/
+.pytest_cache/
+*.egg-info/
+dist/sib_api_v3_sdk-6.0.3-py2.7.egg
+dist/sib_api_v3_sdk-6.0.3-py3.6.egg
